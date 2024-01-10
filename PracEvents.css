@@ -1,0 +1,8 @@
+#box {
+    height: 100px;
+    width: 200px;
+    color: white;
+    background-color: dodgerblue;
+    border: 1px solid black;
+    font-size: 150%;
+}
