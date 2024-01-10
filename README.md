@@ -17,7 +17,7 @@ A simple Tic Tac Toe game implemented in JavaScript.
 
 ## Demo
 
-![Tic Tac Toe Demo](/path/to/screenshot.png)
+![Tic Tac Toe Demo]
 
 Include a screenshot or GIF of the game in action. Alternatively, you can provide a live demo link if available.
 
